@@ -476,4 +476,4 @@ LEFT JOIN dannys_diner.members
 
 In the final section all the questions including the bonus ones were answered.
 
-[![table joins](view-problem-approach.svg)](github.com)
+[![table joins](view-problem-approach.svg)](https://github.com/cholu6768/Dannys-Diner-/blob/main/problem_solving_danny_diner.md)
