@@ -89,4 +89,4 @@ The next section showed the possible output for the questions to have better foc
 
 Please make sure to click on the link below to go to the next section.
 
-[![problem approach](view-problem-approach.svg)](https://github.com/)
+[![problem approach](view-problem-approach.svg)](https://github.com/cholu6768/Dannys-Diner-/blob/main/problem_approach_danny_diner.md)
