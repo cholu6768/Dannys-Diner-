@@ -118,4 +118,4 @@ The next step would be on generating the required base tables.
 
 In this next section the process of joining the tables was shown and also how the base tables were generated. 
 
-[![table joins](view-join-implementation.svg)](github.com)
+[![table joins](view-join-implementation.svg)](https://github.com/cholu6768/Dannys-Diner-/blob/main/join_implementation_danny_diner.md)
