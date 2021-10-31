@@ -10,7 +10,13 @@
 
 
 # Table of contents
-
+- [🍣 About](#-about)
+- [📝 Problem Statement](#-problem-statement)
+- [📋 Case Study Questions](#-case-study-questions)
+- [🔎 Data Exploration](#-data-exploration)
+- [⚙️ Problem Approach](#️-problem-approach)
+- [🧱 Join Implementation](#-join-implementation)
+- [🔧 Problem Solving](#-problem-solving)
 
 # 🍣 About
 
@@ -46,22 +52,22 @@ Danny provided a sample of his overall customer data due to privacy issues. He a
 
 The 3 tables from the ERD were explored in the link below.
 
-[![data exploration](view-data-exploration.svg)](https://github.com)
+[![data exploration](view-data-exploration.svg)](https://github.com/cholu6768/Dannys-Diner-/blob/main/danny_diner_data_exploration.md)
 
 # ⚙️ Problem Approach 
 
 This section showed the possible output for every question so that there was a better focus before fully solving the questions.
 
-[![problem approach](view-problem-approach.svg)](https://github.com/)
+[![problem approach](view-problem-approach.svg)](https://github.com/cholu6768/Dannys-Diner-/blob/main/problem_approach_danny_diner.md)
 
 # 🧱 Join Implementation
 
 In this section the approach on doing the joins is shown and also how the base tables were generated.
 
-[![table joins](view-join-implementation.svg)](github.com)
+[![table joins](view-join-implementation.svg)](https://github.com/cholu6768/Dannys-Diner-/blob/main/join_implementation_danny_diner.md)
 
 # 🔧 Problem Solving 
 
 In this final section all the questions including the bonus ones were solved. 
 
-[![table joins](view-problem-approach.svg)](github.com)
+[![table joins](view-problem-approach.svg)](https://github.com/cholu6768/Dannys-Diner-/blob/main/problem_solving_danny_diner.md)
